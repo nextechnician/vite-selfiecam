@@ -32,8 +32,8 @@ The focus of the project is clarity, correct use of browser APIs, and clean sepa
 
 ## Links
 
--  Live site - []
--  Repository - [https://github.com/yourusername/vite-selfiecam]
+-  Live site - [https://talay-vite-selfie.netlify.app/]
+-  Repository - [https://github.com/nextechnician/vite-selfiecam]
 
 ## Built With
 
@@ -55,7 +55,7 @@ Possible future improvements:
 ## Author
 
 Talay Yontem  
-GitHub - [https://github.com/yourusername]
+GitHub - [https://github.com/nextechnician/vite-selfiecam]
 
 ## Acknowledgments
 
