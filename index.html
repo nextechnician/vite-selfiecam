@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Vite Selfie</title>
+   </head>
+   <body>
+      <div id="app">
+         <h1>Hello You!</h1>
+         <video class="video-stream" autoplay playsinline></video>
+         <canvas class="is-hidden"></canvas>
+         <div class="card">
+            <button id="camera" type="button">Take Selfie</button>
+         </div>
+         <p class="read-the-docs">Click on the Vite logo to learn more</p>
+         <a href="https://vitejs.dev" target="_blank">
+            <img src="/vite.svg" class="logo" alt="Vite logo" />
+         </a>
+
+         <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target="_blank"
+         >
+            <!-- Vite will detect which assets are actually used and include them in the build-->
+            <img
+               src="./assets/javascript.svg"
+               class="logo vanilla"
+               alt="JavaScript logo"
+            />
+         </a>
+      </div>
+      <script type="module" src="/main.js"></script>
+   </body>
+</html>
